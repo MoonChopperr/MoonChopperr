@@ -1,10 +1,11 @@
 ![header](https://res.cloudinary.com/dxdktlvbj/image/upload/v1713474558/Github/banner_xzjfgf.png)
 
-# About Me
+# 🌙 About Me
+Hey there, my name's Ryou. I have 5+ years of experience in esports but now I'm here trying to grow and learn in the software engineering and gamedev world. 
+I'm currently in Atlanta, Georgia and a recent graduate from App Academy. I used to do parkour and lived in japan for 3 years. Oh I also like gundam. 
+Feel free to reach out down below 👇
 
-
-Hey gundam and esports are my thing. I had a career in esports for 5+ years and have decided to pivot to software engineering! You'll see my projects revolve around game-y stuff 
-# 🌐 Social
+# 🌐 Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://moonchopperr.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishiyamaryou/)
 ![Gmail](https://img.shields.io/badge/nishiyamaryou@gmail.com-gray?logoColor=white)
@@ -14,7 +15,11 @@ Hey gundam and esports are my thing. I had a career in esports for 5+ years and 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![s3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+![cloud](https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=Cloudinary&logoColor=white)
+![UE](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
