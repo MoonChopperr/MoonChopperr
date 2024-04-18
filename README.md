@@ -11,6 +11,8 @@ Feel free to reach out down below 👇
 ![Gmail](https://img.shields.io/badge/nishiyamaryou@gmail.com-gray?logoColor=white)
 
 # 💻 Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white)
