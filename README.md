@@ -1,6 +1,9 @@
 # About Me
-
-# Social
+Hey gundam and esports are my thing. I had a career in esports for 5+ years and have decided to pivot to software engineering! You'll see my projects revolve around game-y stuff 
+# 🌐 Social
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://moonchopperr.github.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nishiyamaryou)
+![Gmail](https://img.shields.io/badge/nishiyamaryou@gmail.com-gray?logoColor=white)
 
 # Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
