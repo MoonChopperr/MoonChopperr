@@ -6,7 +6,7 @@ I'm currently in Atlanta, Georgia and a recent graduate from App Academy. I used
 Feel free to reach out down below 👇
 
 # 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://moonchopperr.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://moonchopper.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishiyamaryou/)
 ![Gmail](https://img.shields.io/badge/nishiyamaryou@gmail.com-gray?logoColor=white)
 
