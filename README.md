@@ -1,5 +1,6 @@
 ![header](https://res.cloudinary.com/dxdktlvbj/image/upload/v1713474558/Github/banner_xzjfgf.png)
 
+
 # 🌙 About Me
 Hey there, my name's Ryou. I have 5+ years of experience in esports but now I'm here trying to grow and learn in the software engineering and gamedev world. 
 I'm currently in Atlanta, Georgia and a recent graduate from App Academy. I used to do parkour and lived in japan for 3 years. Oh I also like gundam. 
@@ -9,6 +10,8 @@ Feel free to reach out down below 👇
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://moonchopper.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishiyamaryou/)
 ![Gmail](https://img.shields.io/badge/nishiyamaryou@gmail.com-gray?logoColor=white)
+
+# 🔭 I’m currently working on a mobile app using react native, expo, firebase and typescript!
 
 # 💻 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
